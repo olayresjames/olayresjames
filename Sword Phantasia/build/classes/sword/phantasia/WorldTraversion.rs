@@ -1,2 +1,0 @@
-WorldTraversion
-Game.WorldTraversion
