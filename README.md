@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=slice&color=0:050505,45:1A0004,75:8F001D,100:D90429&height=280&section=header&animation=twinkling&text=Rafhael%20James%20Olayres&fontSize=46&fontColor=F8F8F8&fontAlignY=38&desc=FULL-STACK%20%2F%2F%20AI%20%2F%2F%20GAME%20UI&descAlignY=63&descSize=16" alt="Rafhael James Olayres animated banner" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=shark&color=0:050505,45:1A0004,75:8F001D,100:D90429&height=300&section=header&animation=twinkling&text=Rafhael%20James%20Olayres&fontSize=46&fontColor=F8F8F8&fontAlignY=38&desc=FULL-STACK%20%2F%2F%20AI%20%2F%2F%20GAME%20UI&descAlignY=63&descSize=16" alt="Rafhael James Olayres animated shark-tooth banner" width="100%" />
 
   <p>
     <img src="https://img.shields.io/badge/PLAYER%20PROFILE-050505?style=for-the-badge&logo=target&logoColor=D90429" alt="Player profile" />
@@ -82,14 +82,41 @@ SIDE QUESTS      Gaming · UI/UX design · GTA · Monster Hunter
 <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite,html,css" alt="React, Next.js, Tailwind CSS, Vite, HTML, and CSS" />
 <img src="https://img.shields.io/badge/Expo-050505?style=for-the-badge&logo=expo&logoColor=D90429" alt="Expo" height="48" />
 
-<h3>03 // BACKEND + INFRASTRUCTURE</h3>
+<h3>03 // BACKEND + DATA</h3>
 
-<img src="https://skillicons.dev/icons?i=firebase,supabase,mysql,postgres,vercel,git,github" alt="Firebase, Supabase, MySQL, PostgreSQL, Vercel, Git, and GitHub" />
+<img src="https://skillicons.dev/icons?i=firebase,supabase,mysql,postgres,vercel" alt="Firebase, Supabase, MySQL, PostgreSQL, and Vercel" />
 
-<h3>04 // AI SYSTEMS</h3>
+<h3>04 // APIS + INFRASTRUCTURE</h3>
+
+<img src="https://img.shields.io/badge/Node.js-050505?style=for-the-badge&logo=nodedotjs&logoColor=D90429" alt="Node.js" height="48" />
+<img src="https://img.shields.io/badge/Express-D90429?style=for-the-badge&logo=express&logoColor=white" alt="Express" height="48" />
+<img src="https://img.shields.io/badge/REST%20APIs-050505?style=for-the-badge&logo=fastapi&logoColor=D90429" alt="REST APIs" height="48" />
+<img src="https://img.shields.io/badge/CI%2FCD-1A0004?style=for-the-badge&logo=githubactions&logoColor=FF304F" alt="CI/CD" height="48" />
+
+<h3>05 // AI SYSTEMS</h3>
 
 <img src="https://img.shields.io/badge/Google%20Gemini-D90429?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Google Gemini" height="48" />
 <img src="https://img.shields.io/badge/OpenAI-050505?style=for-the-badge&logo=openai&logoColor=D90429" alt="OpenAI" height="48" />
+
+<h3>06 // TOOLS + WORKFLOW</h3>
+
+<img src="https://img.shields.io/badge/Postman-D90429?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" height="48" />
+<img src="https://img.shields.io/badge/npm-050505?style=for-the-badge&logo=npm&logoColor=D90429" alt="npm" height="48" />
+<img src="https://img.shields.io/badge/VS%20Code-1A0004?style=for-the-badge&logo=visualstudiocode&logoColor=FF304F" alt="Visual Studio Code" height="48" />
+<img src="https://img.shields.io/badge/Git%20%2B%20GitHub-D90429?style=for-the-badge&logo=github&logoColor=white" alt="Git and GitHub" height="48" />
+
+<h3>07 // QUALITY + DELIVERY</h3>
+
+<img src="https://img.shields.io/badge/Responsive%20Design-050505?style=for-the-badge&logo=css3&logoColor=D90429" alt="Responsive design" height="48" />
+<img src="https://img.shields.io/badge/Accessibility-1A0004?style=for-the-badge&logo=accessibility&logoColor=FF304F" alt="Accessibility" height="48" />
+<img src="https://img.shields.io/badge/Debugging-D90429?style=for-the-badge&logo=bugcrowd&logoColor=white" alt="Debugging" height="48" />
+<img src="https://img.shields.io/badge/Agile%20Workflow-050505?style=for-the-badge&logo=jira&logoColor=D90429" alt="Agile workflow" height="48" />
+
+<h3>08 // NETWORKING</h3>
+
+<img src="https://img.shields.io/badge/Networking%20Protocols-050505?style=for-the-badge&logo=cisco&logoColor=D90429" alt="Networking protocols" height="48" />
+<img src="https://img.shields.io/badge/Subnetting-1A0004?style=for-the-badge&logo=wireshark&logoColor=FF304F" alt="Subnetting" height="48" />
+<img src="https://img.shields.io/badge/IP%20Configuration-D90429?style=for-the-badge&logo=protonvpn&logoColor=white" alt="IP configuration" height="48" />
 
 </div>
 
@@ -216,4 +243,4 @@ Have an idea worth building, a project to collaborate on, or simply want to talk
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=shark&color=0:D90429,45:8F001D,100:050505&height=140&section=footer&animation=twinkling" alt="Animated spiky footer decoration" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=shark&color=0:D90429,45:8F001D,100:050505&height=180&section=footer&animation=twinkling" alt="Animated shark-tooth footer decoration" width="100%" />
