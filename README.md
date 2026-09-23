@@ -1,130 +1,149 @@
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=shark&color=0:050505,45:1A0004,75:8F001D,100:D90429&height=300&section=header&animation=twinkling&text=Rafhael%20James%20Olayres&fontSize=46&fontColor=F8F8F8&fontAlignY=38&desc=FULL-STACK%20%2F%2F%20AI%20%2F%2F%20GAME%20UI&descAlignY=63&descSize=16" alt="Rafhael James Olayres animated shark-tooth banner" width="100%" />
+  <img src="./assets/top-wave.svg" alt="Rafhael James Olayres — full-stack, AI, and game UI developer" width="100%" />
 
   <p>
-    <img src="https://img.shields.io/badge/PLAYER%20PROFILE-050505?style=for-the-badge&logo=target&logoColor=D90429" alt="Player profile" />
-    <img src="https://img.shields.io/badge/DEV%20MODE-D90429?style=for-the-badge&logo=codeforces&logoColor=white" alt="Developer mode" />
-    <a href="https://olayresportfolio.vercel.app/"><img src="https://img.shields.io/badge/PORTFOLIO-1A0004?style=for-the-badge&logo=vercel&logoColor=D90429" alt="Portfolio" /></a>
-    <a href="https://linkedin.com/in/james-olayres-888721410"><img src="https://img.shields.io/badge/LINKEDIN-050505?style=for-the-badge&logo=linkedin&logoColor=D90429" alt="LinkedIn" /></a>
+    <img src="https://img.shields.io/badge/PLAYER_PROFILE-050505?style=for-the-badge&logo=target&logoColor=FF304F" alt="Player profile" />
+    <img src="https://img.shields.io/badge/DEV_MODE-D90429?style=for-the-badge&logo=codeforces&logoColor=white" alt="Developer mode" />
+    <a href="https://olayresportfolio.vercel.app/"><img src="https://img.shields.io/badge/PORTFOLIO-260009?style=for-the-badge&logo=vercel&logoColor=FF8A9A" alt="Portfolio" /></a>
+    <a href="https://linkedin.com/in/james-olayres-888721410"><img src="https://img.shields.io/badge/LINKEDIN-050505?style=for-the-badge&logo=linkedin&logoColor=FF304F" alt="LinkedIn" /></a>
     <a href="mailto:olayres.rafhaeljames@gmail.com"><img src="https://img.shields.io/badge/EMAIL-D90429?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   </p>
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&pause=1200&color=D90429&center=true&vCenter=true&width=600&lines=Building+useful+digital+experiences;Connecting+people%2C+products%2C+and+AI;Turning+ideas+into+working+interfaces" alt="Animated introduction" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1200&color=FF304F&center=true&vCenter=true&width=650&lines=Building+useful+digital+experiences;Connecting+people%2C+products%2C+and+AI;Turning+ideas+into+working+interfaces" alt="Animated introduction" />
 
 </div>
-
-<br />
 
 <p align="center">
-  <a href="#about-me"><img src="https://img.shields.io/badge/ABOUT-1A0004?style=flat-square&labelColor=050505&color=D90429" alt="About" /></a>
-  <a href="#internship-projects"><img src="https://img.shields.io/badge/INTERNSHIP%20FILES-1A0004?style=flat-square&labelColor=050505&color=D90429" alt="Internship files" /></a>
-  <a href="#featured-builds"><img src="https://img.shields.io/badge/FEATURED%20BUILDS-D90429?style=flat-square&labelColor=050505&color=FF304F" alt="Featured builds" /></a>
-  <a href="#games-and-experiments"><img src="https://img.shields.io/badge/GAMES%20%26%20EXPERIMENTS-D90429?style=flat-square&labelColor=050505&color=FF304F" alt="Games and experiments" /></a>
-  <a href="#toolkit"><img src="https://img.shields.io/badge/TOOLKIT-1A0004?style=flat-square&labelColor=050505&color=D90429" alt="Toolkit" /></a>
-  <a href="#lets-connect"><img src="https://img.shields.io/badge/CONTACT-1A0004?style=flat-square&labelColor=050505&color=D90429" alt="Contact" /></a>
+  <a href="#identity-brief"><img src="https://img.shields.io/badge/IDENTITY-050505?style=flat-square&labelColor=D90429&color=050505" alt="Identity" /></a>
+  <a href="#operating-areas"><img src="https://img.shields.io/badge/OPERATIONS-050505?style=flat-square&labelColor=D90429&color=050505" alt="Operations" /></a>
+  <a href="#loadout"><img src="https://img.shields.io/badge/LOADOUT-050505?style=flat-square&labelColor=D90429&color=050505" alt="Loadout" /></a>
+  <a href="#internship-case-files"><img src="https://img.shields.io/badge/CASE_FILES-050505?style=flat-square&labelColor=D90429&color=050505" alt="Case files" /></a>
+  <a href="#signal-activity"><img src="https://img.shields.io/badge/SIGNAL-050505?style=flat-square&labelColor=D90429&color=050505" alt="Signal" /></a>
+  <a href="#lets-connect"><img src="https://img.shields.io/badge/CONTACT-050505?style=flat-square&labelColor=D90429&color=050505" alt="Contact" /></a>
 </p>
 
-<sub>CASE FILE // OLAYRESJAMES // STATUS: ACTIVE</sub>
+<p align="center"><sub>╱╱ CASE FILE // OLAYRESJAMES // STATUS: <strong>ACTIVE</strong> // SIGNAL: <strong>REDLINE</strong></sub></p>
 
-<h2 id="about-me">01 // ABOUT ME</h2>
-
-I’m an Information Technology student from Valenzuela City, Philippines, who enjoys turning ideas into practical, user-centered products. My work sits at the intersection of full-stack development, mobile experiences, generative AI, and game UI/UX.
-
-```text
-ROLE             BSIT student @ Pamantasan ng Lungsod ng Valenzuela · graduating June 2027
-BASE             Valenzuela City, Metro Manila, Philippines
-SIDE QUESTS      Gaming · UI/UX design · GTA · Monster Hunter
-```
-
-<p>
-  <img src="https://img.shields.io/badge/CURRENTLY%20BUILDING-050505?style=for-the-badge&logo=target&logoColor=D90429" alt="Currently building" />
-  <strong>Enterprise personnel systems, AI-assisted products, and thoughtful digital experiences.</strong>
-</p>
-
-<div align="center">
-
-  <a href="https://github.com/olayresjames"><img src="https://img.shields.io/github/followers/olayresjames?label=Followers&style=flat-square&color=D90429" alt="GitHub followers" /></a>
-  <a href="https://github.com/olayresjames?tab=repositories"><img src="https://img.shields.io/github/stars/olayresjames?affiliations=OWNER&label=Repository%20stars&style=flat-square&color=FF304F" alt="Repository stars" /></a>
-  <img src="https://komarev.com/ghpvc/?username=olayresjames&style=flat-square&color=050505" alt="Profile views" />
-
-</div>
-
-<h2 id="what-i-build">02 // WHAT I BUILD</h2>
+<h2 id="identity-brief">01 // IDENTITY BRIEF</h2>
 
 <table>
   <tr>
-    <td width="33%" valign="top">
-      <h3>01 // Web & mobile</h3>
-      <p>Responsive interfaces and full-stack products with thoughtful flows, real-time data, and polished interaction design.</p>
+    <td width="20%" valign="middle" align="center">
+      <img src="./assets/olayres-emblem.svg" alt="RJO redline monogram emblem" width="150" />
     </td>
-    <td width="33%" valign="top">
-      <h3>02 // AI-powered tools</h3>
-      <p>Practical AI integrations that make applications more useful, accessible, and responsive to real user needs.</p>
+    <td width="52%" valign="top">
+      <h3>Building with intent.</h3>
+      <p>I’m an Information Technology student from Valenzuela City, Philippines, who enjoys turning ideas into practical, user-centered products. My work sits at the intersection of full-stack development, mobile experiences, generative AI, and game UI/UX.</p>
+      <p><img src="https://img.shields.io/badge/CURRENTLY_BUILDING-050505?style=for-the-badge&logo=target&logoColor=FF304F" alt="Currently building" /><br /><strong>Enterprise personnel systems, AI-assisted products, and thoughtful digital experiences.</strong></p>
     </td>
-    <td width="33%" valign="top">
-      <h3>03 // Game experiences</h3>
-      <p>Game interfaces, interactive systems, and gameplay logic that make complex rules feel simple to use.</p>
+    <td width="28%" valign="top">
+      <pre><code>ROLE       BSIT STUDENT
+SCHOOL     PLV
+BASE       VALENZUELA CITY
+GRADUATING JUNE 2027
+STATUS     ONLINE ●</code></pre>
     </td>
   </tr>
 </table>
 
-<h2 id="toolkit">03 // TOOLKIT</h2>
+<p align="center"><sub>━━━ ◈ ━━━  IDENTITY VERIFIED  ━━━ ◈ ━━━</sub></p>
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>✦ DESIGN PHILOSOPHY</h3>
+      <blockquote><strong>Build systems that feel clear, useful, and a little unforgettable.</strong></blockquote>
+      <p><sub>CLARITY FIRST · HUMAN SCALE · BUILT TO LAST</sub></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>⚡ NEXT MISSION</h3>
+      <p>Sharpening full-stack architecture, accessible interaction design, and AI-assisted workflows while shipping work that solves real problems.</p>
+      <p><img src="https://img.shields.io/badge/STATUS-IN_PROGRESS-D90429?style=flat-square&labelColor=050505" alt="Next mission in progress" /> <img src="https://img.shields.io/badge/FOCUS-SHIPPING-FF304F?style=flat-square&labelColor=050505" alt="Focus shipping" /></p>
+    </td>
+  </tr>
+</table>
+
+<p align="center">
+  <a href="https://github.com/olayresjames"><img src="https://img.shields.io/github/followers/olayresjames?label=FOLLOWERS&style=flat-square&color=D90429&labelColor=050505" alt="GitHub followers" /></a>
+  <a href="https://github.com/olayresjames?tab=repositories"><img src="https://img.shields.io/github/stars/olayresjames?affiliations=OWNER&label=REPOSITORY+STARS&style=flat-square&color=FF304F&labelColor=050505" alt="Repository stars" /></a>
+  <a href="https://github.com/olayresjames"><img src="https://img.shields.io/badge/PROFILE_VIEWS-VISIT_GITHUB-260009?style=flat-square&logo=github&logoColor=FF8A9A" alt="View profile on GitHub" /></a>
+</p>
+
+<h2 id="operating-areas">02 // OPERATING AREAS</h2>
+
+<p><img src="https://img.shields.io/badge/ACTIVE_MODULES-03-D90429?style=flat-square&labelColor=050505" alt="Three active modules" /> <img src="https://img.shields.io/badge/MODE-USER_CENTRIC-FF304F?style=flat-square&labelColor=050505" alt="User centric mode" /></p>
+
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <h3>01 // WEB + MOBILE</h3>
+      <p>Responsive interfaces and full-stack products with thoughtful flows, real-time data, and polished interaction design.</p>
+      <code>PRODUCT · INTERFACE · FLOW</code>
+    </td>
+    <td width="33%" valign="top">
+      <h3>02 // AI SYSTEMS</h3>
+      <p>Practical AI integrations that make applications more useful, accessible, and responsive to real user needs.</p>
+      <code>CONTEXT · AUTOMATION · ASSIST</code>
+    </td>
+    <td width="33%" valign="top">
+      <h3>03 // GAME EXPERIENCES</h3>
+      <p>Game interfaces, interactive systems, and gameplay logic that make complex rules feel simple to use.</p>
+      <code>PLAY · SYSTEM · FEEL</code>
+    </td>
+  </tr>
+</table>
+
+<h2 id="loadout">03 // LOADOUT</h2>
+
+<p align="center"><sub>╱╱ EQUIPMENT CHECK // THE RIGHT TOOL FOR THE RIGHT FEEL ╲╲</sub></p>
 
 <div align="center">
 
-<h3>01 // LANGUAGES</h3>
-
+<h3>01 // LANGUAGES · CORE DAMAGE</h3>
 <img src="https://skillicons.dev/icons?i=ts,js,python,java,cpp,c" alt="TypeScript, JavaScript, Python, Java, C++, and C" />
 
-<h3>02 // FRONTEND + MOBILE</h3>
-
+<h3>02 // FRONTEND + MOBILE · INTERFACE</h3>
 <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite,html,css" alt="React, Next.js, Tailwind CSS, Vite, HTML, and CSS" />
-<img src="https://img.shields.io/badge/Expo-050505?style=for-the-badge&logo=expo&logoColor=D90429" alt="Expo" height="48" />
+<img src="https://img.shields.io/badge/Expo-050505?style=for-the-badge&logo=expo&logoColor=FF304F" alt="Expo" height="48" />
 
-<h3>03 // BACKEND + DATA</h3>
-
+<h3>03 // BACKEND + DATA · ENGINE ROOM</h3>
 <img src="https://skillicons.dev/icons?i=firebase,supabase,mysql,postgres,vercel" alt="Firebase, Supabase, MySQL, PostgreSQL, and Vercel" />
 
-<h3>04 // APIS + INFRASTRUCTURE</h3>
-
-<img src="https://img.shields.io/badge/Node.js-050505?style=for-the-badge&logo=nodedotjs&logoColor=D90429" alt="Node.js" height="48" />
+<h3>04 // APIS + INFRASTRUCTURE · DEPLOYMENT</h3>
+<img src="https://img.shields.io/badge/Node.js-050505?style=for-the-badge&logo=nodedotjs&logoColor=FF304F" alt="Node.js" height="48" />
 <img src="https://img.shields.io/badge/Express-D90429?style=for-the-badge&logo=express&logoColor=white" alt="Express" height="48" />
-<img src="https://img.shields.io/badge/REST%20APIs-050505?style=for-the-badge&logo=fastapi&logoColor=D90429" alt="REST APIs" height="48" />
-<img src="https://img.shields.io/badge/CI%2FCD-1A0004?style=for-the-badge&logo=githubactions&logoColor=FF304F" alt="CI/CD" height="48" />
+<img src="https://img.shields.io/badge/REST_APIs-050505?style=for-the-badge&logo=fastapi&logoColor=FF304F" alt="REST APIs" height="48" />
+<img src="https://img.shields.io/badge/CI%2FCD-260009?style=for-the-badge&logo=githubactions&logoColor=FF8A9A" alt="CI/CD" height="48" />
 
-<h3>05 // AI SYSTEMS</h3>
+<h3>05 // AI SYSTEMS · AUGMENTATION</h3>
+<img src="https://img.shields.io/badge/Google_Gemini-D90429?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Google Gemini" height="48" />
+<img src="https://img.shields.io/badge/OpenAI-050505?style=for-the-badge&logo=openai&logoColor=FF304F" alt="OpenAI" height="48" />
 
-<img src="https://img.shields.io/badge/Google%20Gemini-D90429?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Google Gemini" height="48" />
-<img src="https://img.shields.io/badge/OpenAI-050505?style=for-the-badge&logo=openai&logoColor=D90429" alt="OpenAI" height="48" />
-
-<h3>06 // TOOLS + WORKFLOW</h3>
-
+<h3>06 // TOOLS + WORKFLOW · CONTROL DECK</h3>
 <img src="https://img.shields.io/badge/Postman-D90429?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" height="48" />
-<img src="https://img.shields.io/badge/npm-050505?style=for-the-badge&logo=npm&logoColor=D90429" alt="npm" height="48" />
-<img src="https://img.shields.io/badge/VS%20Code-1A0004?style=for-the-badge&logo=visualstudiocode&logoColor=FF304F" alt="Visual Studio Code" height="48" />
-<img src="https://img.shields.io/badge/Git%20%2B%20GitHub-D90429?style=for-the-badge&logo=github&logoColor=white" alt="Git and GitHub" height="48" />
+<img src="https://img.shields.io/badge/npm-050505?style=for-the-badge&logo=npm&logoColor=FF304F" alt="npm" height="48" />
+<img src="https://img.shields.io/badge/VS_Code-260009?style=for-the-badge&logo=visualstudiocode&logoColor=FF8A9A" alt="Visual Studio Code" height="48" />
+<img src="https://img.shields.io/badge/Git_%2B_GitHub-D90429?style=for-the-badge&logo=github&logoColor=white" alt="Git and GitHub" height="48" />
 
-<h3>07 // QUALITY + DELIVERY</h3>
-
-<img src="https://img.shields.io/badge/Responsive%20Design-050505?style=for-the-badge&logo=css3&logoColor=D90429" alt="Responsive design" height="48" />
-<img src="https://img.shields.io/badge/Accessibility-1A0004?style=for-the-badge&logo=accessibility&logoColor=FF304F" alt="Accessibility" height="48" />
+<h3>07 // QUALITY + DELIVERY · FINISHING MOVE</h3>
+<img src="https://img.shields.io/badge/Responsive_Design-050505?style=for-the-badge&logo=css3&logoColor=FF304F" alt="Responsive design" height="48" />
+<img src="https://img.shields.io/badge/Accessibility-260009?style=for-the-badge&logo=accessibility&logoColor=FF8A9A" alt="Accessibility" height="48" />
 <img src="https://img.shields.io/badge/Debugging-D90429?style=for-the-badge&logo=bugcrowd&logoColor=white" alt="Debugging" height="48" />
-<img src="https://img.shields.io/badge/Agile%20Workflow-050505?style=for-the-badge&logo=jira&logoColor=D90429" alt="Agile workflow" height="48" />
+<img src="https://img.shields.io/badge/Agile_Workflow-050505?style=for-the-badge&logo=jira&logoColor=FF304F" alt="Agile workflow" height="48" />
 
-<h3>08 // NETWORKING</h3>
-
-<img src="https://img.shields.io/badge/Networking%20Protocols-050505?style=for-the-badge&logo=cisco&logoColor=D90429" alt="Networking protocols" height="48" />
-<img src="https://img.shields.io/badge/Subnetting-1A0004?style=for-the-badge&logo=wireshark&logoColor=FF304F" alt="Subnetting" height="48" />
-<img src="https://img.shields.io/badge/IP%20Configuration-D90429?style=for-the-badge&logo=protonvpn&logoColor=white" alt="IP configuration" height="48" />
+<h3>08 // NETWORKING · FIELD KIT</h3>
+<img src="https://img.shields.io/badge/Networking_Protocols-050505?style=for-the-badge&logo=cisco&logoColor=FF304F" alt="Networking protocols" height="48" />
+<img src="https://img.shields.io/badge/Subnetting-260009?style=for-the-badge&logo=wireshark&logoColor=FF8A9A" alt="Subnetting" height="48" />
+<img src="https://img.shields.io/badge/IP_Configuration-D90429?style=for-the-badge&logo=protonvpn&logoColor=white" alt="IP configuration" height="48" />
 
 </div>
 
-<h2 id="internship-projects">04 // INTERNSHIP FILES</h2>
-
+<h2 id="internship-case-files">04 // INTERNSHIP CASE FILES</h2>
 <p><sub>CASE FILES // ENTERPRISE · OPERATIONS · FIELD SYSTEMS</sub></p>
+<p>Projects developed during internship work across enterprise systems, personnel operations, geospatial navigation, and assignment workflows.</p>
 
-These projects were developed during my internship work across enterprise systems, personnel operations, geospatial navigation, and assignment workflows.
+<p align="center"><sub>━━━ ◈ ━━━  FIELD OPERATIONS  ━━━ ◈ ━━━</sub></p>
 
 <table>
   <tr>
@@ -140,7 +159,6 @@ These projects were developed during my internship work across enterprise system
       <h3>🧭 CAMP-NAVI</h3>
       <p>Geofencing and navigation system for Camp Crame, built to support security and operational efficiency.</p>
       <p><code>Geofencing</code> <code>Navigation</code> <code>Security operations</code></p>
-      <p><sub>◆ INTERNSHIP PROJECT</sub></p>
     </td>
     <td width="50%" valign="top">
       <h3>📍 <a href="https://pnp-survey.up.railway.app/">PNP Assignment System</a> <sup>◆ FEATURED</sup></h3>
@@ -159,8 +177,9 @@ These projects were developed during my internship work across enterprise system
 </table>
 
 <h2 id="featured-builds">05 // FEATURED BUILDS</h2>
-
 <p><sub>PRIMARY BUILDS // PRODUCTS WITH PEOPLE AT THE CENTER</sub></p>
+
+<p><img src="https://img.shields.io/badge/BUILD_QUALITY-POLISHED-D90429?style=flat-square&labelColor=050505" alt="Build quality polished" /> <img src="https://img.shields.io/badge/DEPLOYMENT-ONLINE-FF304F?style=flat-square&labelColor=050505" alt="Deployment online" /></p>
 
 <table>
   <tr>
@@ -184,8 +203,7 @@ These projects were developed during my internship work across enterprise system
   </tr>
 </table>
 
-<h2 id="games-and-experiments">06 // GAMES + EXPERIMENTS</h2>
-
+<h2 id="games-and-experiments">06 // SIDE QUESTS + EXPERIMENTS</h2>
 <p><sub>SIDE QUESTS // INTERFACES · SYSTEMS · STORIES</sub></p>
 
 <table>
@@ -215,17 +233,15 @@ These projects were developed during my internship work across enterprise system
   </tr>
 </table>
 
-<h2 id="github-activity">07 // GITHUB ACTIVITY</h2>
+<h2 id="signal-activity">07 // SIGNAL ACTIVITY</h2>
+
+<p align="center"><img src="https://img.shields.io/badge/TELEMETRY-LIVE-D90429?style=for-the-badge&logo=github&logoColor=white" alt="Live GitHub telemetry" /></p>
 
 <div align="center">
-
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=olayresjames&show_icons=true&hide_border=true&title_color=D90429&icon_color=FF304F&text_color=C7C7C7&bg_color=00000000&rank_icon=github" alt="Rafhael's GitHub statistics" height="165" />
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=olayresjames&layout=compact&hide_border=true&title_color=D90429&text_color=C7C7C7&bg_color=00000000" alt="Most used languages" height="165" />
-
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=olayresjames&show_icons=true&hide_border=true&title_color=FF304F&icon_color=D90429&text_color=C7C7C7&bg_color=00000000&rank_icon=github" alt="Rafhael's GitHub statistics" height="165" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=olayresjames&layout=compact&hide_border=true&title_color=FF304F&text_color=C7C7C7&bg_color=00000000" alt="Most used languages" height="165" />
   <br />
-
-  <img src="https://streak-stats.demolab.com?user=olayresjames&theme=transparent&hide_border=true&ring=D90429&fire=FF304F&currStreakLabel=D90429" alt="GitHub contribution streak" />
-
+  <img src="https://streak-stats.demolab.com?user=olayresjames&theme=transparent&hide_border=true&ring=D90429&fire=FF304F&currStreakLabel=FF304F" alt="GitHub contribution streak" />
 </div>
 
 <h2 id="lets-connect">08 // LET’S CONNECT</h2>
@@ -233,14 +249,10 @@ These projects were developed during my internship work across enterprise system
 Have an idea worth building, a project to collaborate on, or simply want to talk about tech and games? I’d love to hear from you.
 
 <div align="center">
-
-  <a href="https://olayresportfolio.vercel.app/"><img src="https://img.shields.io/badge/OPEN%20PORTFOLIO-1A0004?style=for-the-badge&logo=vercel&logoColor=D90429" alt="Open portfolio" /></a>
-  <a href="mailto:olayres.rafhaeljames@gmail.com"><img src="https://img.shields.io/badge/START%20A%20CONVERSATION-D90429?style=for-the-badge&logo=gmail&logoColor=white" alt="Start a conversation" /></a>
-
-  <br /><br />
-
-  <sub>Designed and built with curiosity from Valenzuela City, Philippines.</sub>
-
+  <a href="https://olayresportfolio.vercel.app/"><img src="https://img.shields.io/badge/OPEN_PORTFOLIO-260009?style=for-the-badge&logo=vercel&logoColor=FF8A9A" alt="Open portfolio" /></a>
+  <a href="mailto:olayres.rafhaeljames@gmail.com"><img src="https://img.shields.io/badge/START_A_CONVERSATION-D90429?style=for-the-badge&logo=gmail&logoColor=white" alt="Start a conversation" /></a>
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=shark&color=0:D90429,45:8F001D,100:050505&height=180&section=footer&animation=twinkling" alt="Animated shark-tooth footer decoration" width="100%" />
+<br />
+
+<img src="./assets/bottom-wave.svg" alt="Animated red closing wave — end of file" width="100%" />
